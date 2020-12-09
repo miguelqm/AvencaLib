@@ -1,0 +1,4 @@
+g:\new folder\my documents\visual studio 2013\Projects\AvencaLib\AvencaLib\bin\Debug\AvencaLib.dll
+g:\new folder\my documents\visual studio 2013\Projects\AvencaLib\AvencaLib\bin\Debug\AvencaLib.pdb
+g:\new folder\my documents\visual studio 2013\Projects\AvencaLib\AvencaLib\obj\Debug\AvencaLib.dll
+g:\new folder\my documents\visual studio 2013\Projects\AvencaLib\AvencaLib\obj\Debug\AvencaLib.pdb

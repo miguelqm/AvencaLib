@@ -1,0 +1,25 @@
+g:\new folder\my documents\visual studio 2013\Projects\AvencaLib\AvencaLib\bin\Release\AvencaLib.dll
+g:\new folder\my documents\visual studio 2013\Projects\AvencaLib\AvencaLib\bin\Release\AvencaLib.pdb
+g:\new folder\my documents\visual studio 2013\Projects\AvencaLib\AvencaLib\obj\Release\AvencaLib.frmLogin.resources
+g:\new folder\my documents\visual studio 2013\Projects\AvencaLib\AvencaLib\obj\Release\AvencaLib.csproj.GenerateResource.Cache
+g:\new folder\my documents\visual studio 2013\Projects\AvencaLib\AvencaLib\obj\Release\AvencaLib.dll
+g:\new folder\my documents\visual studio 2013\Projects\AvencaLib\AvencaLib\obj\Release\AvencaLib.pdb
+G:\New folder\My Documents\Visual Studio 2013\Projects\AvencaLib\AvencaLib\bin\Release\AvencaLib.dll.config
+G:\New folder\My Documents\Visual Studio 2013\Projects\AvencaLib\AvencaLib\obj\Release\AvencaLib.frmNovoFuncionario.resources
+G:\New folder\My Documents\My Docs (Google)\VS Projects\Projects\AvencaLib\AvencaLib\bin\Release\AvencaLib.dll.config
+G:\New folder\My Documents\My Docs (Google)\VS Projects\Projects\AvencaLib\AvencaLib\bin\Release\AvencaLib.dll
+G:\New folder\My Documents\My Docs (Google)\VS Projects\Projects\AvencaLib\AvencaLib\bin\Release\AvencaLib.pdb
+G:\New folder\My Documents\My Docs (Google)\VS Projects\Projects\AvencaLib\AvencaLib\obj\Release\AvencaLib.frmLogin.resources
+G:\New folder\My Documents\My Docs (Google)\VS Projects\Projects\AvencaLib\AvencaLib\obj\Release\AvencaLib.frmNovoFuncionario.resources
+G:\New folder\My Documents\My Docs (Google)\VS Projects\Projects\AvencaLib\AvencaLib\obj\Release\AvencaLib.csproj.GenerateResource.Cache
+G:\New folder\My Documents\My Docs (Google)\VS Projects\Projects\AvencaLib\AvencaLib\obj\Release\AvencaLib.dll
+G:\New folder\My Documents\My Docs (Google)\VS Projects\Projects\AvencaLib\AvencaLib\obj\Release\AvencaLib.pdb
+E:\My Documents\Visual Studio 2013\Projects\AvencaLib\AvencaLib\bin\Release\AvencaLib.dll.config
+E:\My Documents\Visual Studio 2013\Projects\AvencaLib\AvencaLib\bin\Release\AvencaLib.dll
+E:\My Documents\Visual Studio 2013\Projects\AvencaLib\AvencaLib\bin\Release\AvencaLib.pdb
+E:\My Documents\Visual Studio 2013\Projects\AvencaLib\AvencaLib\obj\Release\AvencaLib.frmLogin.resources
+E:\My Documents\Visual Studio 2013\Projects\AvencaLib\AvencaLib\obj\Release\AvencaLib.frmNovoFuncionario.resources
+E:\My Documents\Visual Studio 2013\Projects\AvencaLib\AvencaLib\obj\Release\AvencaLib.csproj.GenerateResource.Cache
+E:\My Documents\Visual Studio 2013\Projects\AvencaLib\AvencaLib\obj\Release\AvencaLib.dll
+E:\My Documents\Visual Studio 2013\Projects\AvencaLib\AvencaLib\obj\Release\AvencaLib.pdb
+E:\My Documents\Visual Studio 2013\Projects\AvencaLib\AvencaLib\obj\Release\AvencaLib.csprojResolveAssemblyReference.cache
